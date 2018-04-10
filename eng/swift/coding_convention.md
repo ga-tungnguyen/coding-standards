@@ -1,8 +1,8 @@
-﻿##Swift coding convention
+﻿## Swift coding convention
 
-###Define variables, constants
+### Define variables, constants
 
-###Common convention for variables, constants
+### Common convention for variables, constants
 Can be written in a single line if they have relevance.
 ```sh
 let row: Int, column: Int
